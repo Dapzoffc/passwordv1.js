@@ -1,6 +1,6 @@
 {
 
-  "secretCode": "Version1 Gen1",
+  "secretCode": "Version1",
 
   "description": "HARVARD CRASH V1GEN1", 
 
